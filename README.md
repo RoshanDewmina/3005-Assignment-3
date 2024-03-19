@@ -1,6 +1,3 @@
-# Program Name
-
-Description of what this program does.
 
 ## Prerequisites
 
@@ -16,7 +13,8 @@ To run the program, follow these steps:
 
 3. Run the program using Node.js:
 
-   npm install pg && node index.js
+   npm install pg
+   node index.js
 
 You should now see the output of your program in the terminal.
 
